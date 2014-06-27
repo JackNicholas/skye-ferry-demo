@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on The Skye Ferry site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://jacknicholas.github.io/index.xml</link>
+    <language>en-uk</language>
+    
+    
+    <updated>Fri, 27 Jun 2014 16:47:49 BST</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://jacknicholas.github.io/about.html</link>
+      <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
+      
+      <guid>http://jacknicholas.github.io/about.html</guid>
+      <description>testing the about page
+</description>
+    </item>
+    
+  </channel>
+</rss>
