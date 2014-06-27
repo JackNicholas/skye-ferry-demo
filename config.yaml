@@ -1,0 +1,10 @@
+---
+baseurl: "http://jacknicholas.github.io/skye-ferry-demo/"
+languageCode: "en-uk"
+title: "The Skye Ferry site"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+builddraft: false
+uglyUrls: true
+---
