@@ -1,0 +1,9 @@
+#masthead-logotype {
+  font-family: 'Roboto', sans-serif;
+  color: red;
+}
+#masthead-strapline {
+  font-family: 'Old Standard TT', serif;
+  font-variant: small-caps;
+  color: blue;
+}
