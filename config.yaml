@@ -7,4 +7,5 @@ layoutdir: "layouts"
 publishdir: "public"
 builddraft: false
 uglyUrls: true
+canonifyurls: true
 ---
