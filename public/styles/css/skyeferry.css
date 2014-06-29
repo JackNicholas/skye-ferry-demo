@@ -1,6 +1,15 @@
-#masthead-logotype {
+.navbar-default .navbar-brand {
+  color: #100b60;
+  background-color: #fff;
+}
+.navbar-brand,
+.masthead-logotype {
   font-family: 'Roboto', sans-serif;
-  color: red;
+  letter-spacing: 0.3em;
+}
+#main-menu {
+  font-family: 'Roboto', sans-serif;
+  font-variant: small-caps;
 }
 #masthead-strapline {
   font-family: 'Old Standard TT', serif;

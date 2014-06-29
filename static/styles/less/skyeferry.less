@@ -1,5 +1,7 @@
 // less styles specific to skye ferry additional to and using bootstrap
 
+
+
 // Core variables and mixins
 @import "variables.less";
 @import "mixins.less";
@@ -7,10 +9,35 @@
 //@masthead-bg-colour: #161e43;
 @masthead-bg-colour: #374a72;
 
+// skye ferry variables
 
-#masthead-logotype{
+@ferry-blue: #100B60;
+
+
+
+
+// ------------------------
+
+
+
+// ------------------
+
+.navbar-default .navbar-brand {
+    color: @ferry-blue;
+    background-color:#fff;
+
+}
+
+
+.navbar-brand, .masthead-logotype{
   font-family: 'Roboto', sans-serif;
-  color: red;
+  letter-spacing: 0.3em
+}
+
+
+#main-menu{
+  font-family: 'Roboto', sans-serif;
+  font-variant: small-caps;
 }
 
 #masthead-strapline{
