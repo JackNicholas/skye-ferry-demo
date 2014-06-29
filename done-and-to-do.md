@@ -12,7 +12,7 @@ font-family: 'Old Standard TT', serif;
 
 ## done
 
-
+changed blue to that of kid's t-shirt image. #100B60 - is this right?
 
 
 
