@@ -22,6 +22,11 @@
 
 // ------------------
 
+//overwrite default margin so that jumbotron buts up to nav
+.navbar {
+  margin-bottom:0;
+}
+
 .navbar-default .navbar-brand {
     color: @ferry-blue;
     background-color:#fff;
@@ -40,8 +45,35 @@
   font-variant: small-caps;
 }
 
-#masthead-strapline{
+
+
+
+#jumbotron-homepage .container h1 small {
+  color:@ferry-blue;
   font-family: 'Old Standard TT', serif;
   font-variant: small-caps;
-  color: blue;
+}
+
+#jumbotron-homepage .container p.lead span{
+  color:@ferry-blue;
+  /* Fallback for web browsers that doesn't support RGBa */
+  background: rgb(204, 204, 204);
+  /* RGBa with 0.6 opacity */
+  background: rgba(204, 204, 204, 0.7);
+  padding-left:5px;
+  padding-right:5px;
+}
+
+
+@media all and (min-width: 551px) {
+    #jumbotron-homepage {
+      background: url('/styles/css-images/ferry_slip_blue_sky_cropped_1280_640.jpg') no-repeat;
+      background-size: cover;
+    }
+}
+@media all and (max-width: 550px) {
+    #jumbotron-homepage {
+      background: url('/styles/css-images/ferry_slip_blue_sky_cropped_500_500.jpg') no-repeat;
+      background-size: cover;
+    }
 }
