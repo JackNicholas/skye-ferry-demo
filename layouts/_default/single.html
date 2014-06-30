@@ -1,17 +1,33 @@
 <html>
-<head>
-<title>Testing skye ferry</title>
-</head>
+  <head>
+    {{ template "partials/head-basics.html"}}
+    {{ template "partials/head-fonts.html"}}
+    <title>{{ .Title }}: Skye Ferry</title>
+    {{ template "partials/head-styles.html"}}
+    {{ template "partials/head-favicons.html"}}
+  </head>
 
-<body>
+  <body id="{{.Params.bodyid}}">
+
+    {{ template "partials/body-nav.html"}}
+
+    <!-- main image -->
+    {{ template "partials/body-main-image.html" . }}
+
+    <!-- main content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">.
+          <article id="content">
+           {{ .Content }}
+          </article>
+        </div>
+      </div>
+    </div>
 
 
+    {{ template "partials/body-footer-nav.html"}}
+    {{ template "partials/body-footer-scripts.html"}}
 
-<div>
-<article id="content">
- {{ .Content }}
-</article>
-</div>
-</body>
-
+  </body>
 </html>

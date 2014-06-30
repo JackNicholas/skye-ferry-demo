@@ -3,18 +3,58 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://jacknicholas.github.io/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <language>en-uk</language>
     
     
-    <updated>Fri, 27 Jun 2014 16:47:49 BST</updated>
+    <updated>Mon, 30 Jun 2014 04:21:55 UTC</updated>
     
     <item>
-      <title>about</title>
-      <link>http://jacknicholas.github.io/about.html</link>
+      <title>Times and Fares</title>
+      <link>http://localhost:1313/times-and-fares.html</link>
+      <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
+      
+      <guid>http://localhost:1313/times-and-fares.html</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Fares&lt;/h2&gt;
+
+&lt;div class=&#34;table-responsive&#34;&gt;
+  &lt;table class=&#34;table table-striped&#34;&gt;
+    &lt;tr&gt;&lt;td&gt;Car with up to 4 passengers&lt;/td&gt;&lt;td&gt;&amp;pound;15.00&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Return&lt;/td&gt;&lt;td&gt;&amp;pound;20.00&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Six-journey ticket book&lt;/td&gt;&lt;td&gt;&amp;pound;40.00&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Minibuses&lt;/td&gt;&lt;td&gt;From &amp;pound;25.00&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Motorbike&lt;/td&gt;&lt;td&gt;&amp;pound;7.00&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Return&lt;/td&gt;&lt;td&gt;&amp;pound;10.00&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;​​​​​​&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Service Dates&lt;/h2&gt;
+
+&lt;p&gt;We run annually from Eater until October. The precise dates are changeable due to Easter being a moveable feast and October can throw up some tricky conditions with weather.
+We will keep the site updated as to when we open and close for the season each year.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Times of service&lt;/h2&gt;
+
+&lt;p&gt;Seven days a week between 10am and 6pm (10am to 7pm June, July, August). Every 20 minutes or as required.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_4&#34;&gt;Weather Closure&lt;/h2&gt;
+
+&lt;p&gt;Bad weather can occasionally affect the service. Signs are posted at each of the junctions to access the ferry indicating closure if necessary. The facebook page and site are updated also. If weather conditions are tricky, please check before travel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about and more</title>
+      <link>http://localhost:1313/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/about.html</guid>
+      <guid>http://localhost:1313/about.html</guid>
       <description>testing the about page
 </description>
     </item>
