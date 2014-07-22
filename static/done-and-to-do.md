@@ -8,6 +8,37 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Old Standard TT', serif;
 
 
+shop page
+  image
+    locate
+    size 1280 × 720
+    prep if need
+    save and store
+  change link in body_nav partial
+  md page
+    template / placeholder
+    add image info
+    find text
+    add text
+    find shop images
+    add shop images
+  run hugo
+  test
+  change image and other urls as nec
+  run hugo
+  git add / ci
+  git sync with github x 2
+
+how find us page
+links page
+gallery page
+wildlife page
+contact page
+
+set up archetype
+add links and info to footer
+check facebook link on homepage
+check twitter link on homepage
 
 ## done
 
@@ -16,7 +47,9 @@ font-family: 'Old Standard TT', serif;
 * add favicons
 * add twitter feed
 * basic homepage layout
-* Can we leave out the 'community-owned' phrase.It causes more problems than it solves for us. Perhaps the heading should be as on merchandise "The Original Glenelg-Skye Ferry" Other than that - looking good thus far - thanks guys
+* >>>>>>>>>>>>
+* Change the 'community-owned' phrase to "The Original Glenelg-Skye Ferry" on homepage
+* basic blog page with link to current blog
 
 
 ## notes
@@ -32,6 +65,14 @@ repo: https://github.com/JackNicholas/skye-ferry-demo.git
 git subtree push --prefix=public https://github.com/JackNicholas/skye-ferry-demo.git gh-pages
 
 git push origin master
+
+
+
+_creating a new file_
+
+in terminal / root folder
+
+hugo new name-of-file.md --format="yaml"
 
 
 
