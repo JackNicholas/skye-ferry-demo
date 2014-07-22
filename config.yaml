@@ -8,4 +8,5 @@ publishdir: "public"
 builddraft: false
 uglyUrls: true
 canonifyurls: true
+MetaDataFormat: "yaml"
 ---
