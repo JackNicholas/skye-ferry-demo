@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jacknicholas.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2014-07-31T15:59:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jacknicholas.github.io/done-and-to-do.html</loc>
+    <loc>/done-and-to-do.html</loc>
     <lastmod>2014-07-31T15:59:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jacknicholas.github.io/shop.html</loc>
+    <loc>/shop.html</loc>
     <lastmod>2014-07-22T15:59:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jacknicholas.github.io/blog.html</loc>
+    <loc>/blog.html</loc>
     <lastmod>2014-07-22T11:20:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jacknicholas.github.io/times-and-fares.html</loc>
+    <loc>/times-and-fares.html</loc>
     <lastmod>2014-06-30T04:21:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jacknicholas.github.io/about.html</loc>
+    <loc>/about.html</loc>
     <lastmod>2014-06-27T16:47:49+01:00</lastmod>
   </url>
   
