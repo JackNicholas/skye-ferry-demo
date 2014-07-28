@@ -58,9 +58,17 @@ font-family: 'Old Standard TT', serif;
 * add facebook link to homepage icon
 * add twitter link to homepage icon
 
-* add links and info to footer
+* archive history page
+
+* add links and info to footer: heritage site
+* add links and info to footer: company number
+* add links and info to footer: pop up modal for terms and conditions
+* add links and info to footer: delete "other stuff"
 * create paypal codes
 * add paypal codes / buttons to shop page
+
+* terms and conditions text
+* wildlife text
 
 
 * longterm: convert to cms
