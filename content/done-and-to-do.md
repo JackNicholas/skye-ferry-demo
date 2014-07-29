@@ -11,6 +11,12 @@ done and to do
 
 ## done
 
+* >>>>>>>>>>>> 2014-07-29
+* add facebook link to icon on homepage
+* add twitter link to icon on homepage
+* >>>>>>>>>>>> 2014-07-28
+* correct link from latest news box on homepage
+* correct link from times and fares box on homepage
 * >>>>>>>>>>>> 2014-07-28
 * Change the 'community-owned' phrase to "The Original Glenelg-Skye Ferry" on homepage
 * basic blog page with link to current blog
@@ -53,10 +59,6 @@ font-family: 'Old Standard TT', serif;
 * gallery page
 * wildlife page
 
-* correct link from latest news box on homepage
-* correct link from times and fares box on homepage
-* add facebook link to homepage icon
-* add twitter link to homepage icon
 
 * archive history page
 
