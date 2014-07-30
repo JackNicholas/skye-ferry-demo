@@ -14,6 +14,7 @@ done and to do
 * >>>>>>>>>>>> 2014-07-29
 * add facebook link to icon on homepage
 * add twitter link to icon on homepage
+* start modal prep for footer
 * >>>>>>>>>>>> 2014-07-28
 * correct link from latest news box on homepage
 * correct link from times and fares box on homepage
@@ -62,7 +63,7 @@ font-family: 'Old Standard TT', serif;
 
 * archive history page
 
-* add links and info to footer: heritage site
+* add links and info to footer: pop up modal for heritage site
 * add links and info to footer: company number
 * add links and info to footer: pop up modal for terms and conditions
 * add links and info to footer: delete "other stuff"
