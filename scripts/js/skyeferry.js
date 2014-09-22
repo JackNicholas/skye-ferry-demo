@@ -33,5 +33,10 @@ $(document).ready(function() {
     case 'contact':
       $('#nav-contact').addClass("active");
       break;
-    }
+    };
+
+    $('#pop-company').popover();
+    $('#pop-tc').popover();
+    $('#pop-gpt').popover();
+
 });
