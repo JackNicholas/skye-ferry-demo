@@ -12,7 +12,8 @@ done and to do
 ## done
 
 * >>>>>>>>>>>> 2014-09-22
-*
+* contact page
+* redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)
 * >>>>>>>>>>>> 2014-07-29
 * add facebook link to icon on homepage
 * add twitter link to icon on homepage
@@ -34,32 +35,31 @@ done and to do
 
 ## to do
 
-* contact page
-* ✔new page
-*   ✔image
+* links page
+* new page
+*   image
 *     locate
 *     size 1280 × 720
 *     prep if need
 *     save and store
-*   ✔change link in body_nav partial
+*   change link in body_nav partial
 *   md page
 *     template / placeholder
 *     add image info
+*     demo components / add js files if req
 *     find text
-*   add text
+*     add text
 *   run hugo --baseUrl="/" to get local
 *   test
 *   run hugo again without --baseUrl="/" or with github baseUrl to change image and other urls as nec for deploy
 *   git add / ci
 *   git sync with github x 2
 
-* redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)
+note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse
 
 * how find us page
-* links page
 * gallery page
 * wildlife page
-
 
 * archive history page
 
