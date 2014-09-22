@@ -3,18 +3,54 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://jacknicholas.github.io/index.xml</link>
+    <link>http://jacknicholas.github.io/skye-ferry-demo/index.xml</link>
     <language>en-uk</language>
     
     
-    <updated>Thu, 31 Jul 2014 15:59:52 BST</updated>
+    <updated>Mon, 22 Sep 2014 13:56:15 BST</updated>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://jacknicholas.github.io/skye-ferry-demo/contact.html</link>
+      <pubDate>Mon, 22 Sep 2014 13:56:15 BST</pubDate>
+      
+      <guid>http://jacknicholas.github.io/skye-ferry-demo/contact.html</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Contact Us&lt;/h1&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Ferry Development Officer&lt;/dt&gt;
+  &lt;dd&gt;Jo Macaskill&lt;/dd&gt;  
+  &lt;dt&gt;Mobile&lt;/dt&gt;
+  &lt;dd&gt;07881 634726&lt;/dd&gt;
+  &lt;dt&gt;Email&lt;/dt&gt;
+  &lt;dd&gt;info@skyeferry.com&lt;/dd&gt;
+  &lt;dt&gt;Alternative Email&lt;/dt&gt;
+  &lt;dd&gt;jo.glenelg-skyeferry@hotmail.co.uk&lt;/dd&gt;
+  &lt;dt&gt;Facebook&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&#34;https://www.facebook.com/GlenelgSkyeFerry?ref=hl&#34;&gt;https://www.facebook.com/GlenelgSkyeFerry?ref=hl&lt;/a&gt;&lt;/dd&gt;
+  &lt;dt&gt;Twitter&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&#34;https://twitter.com/FerrytoSkye&#34;&gt;@FerrytoSkye&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;We are a Community Interest Company.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Company Number&lt;/dt&gt;
+  &lt;dd&gt;SC297537&lt;/dd&gt;
+  &lt;dt&gt;Registered Address&lt;/dt&gt;
+  &lt;dd&gt;Skye Ferry CIC, 6 Coulindoune, Glenelg, Ross-shire, IV40 8JU&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+    </item>
     
     <item>
       <title>Notes, to-do, done...</title>
-      <link>http://jacknicholas.github.io/done-and-to-do.html</link>
+      <link>http://jacknicholas.github.io/skye-ferry-demo/done-and-to-do.html</link>
       <pubDate>Thu, 31 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/done-and-to-do.html</guid>
+      <guid>http://jacknicholas.github.io/skye-ferry-demo/done-and-to-do.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;done and to do&lt;/h1&gt;
@@ -22,6 +58,8 @@
 &lt;h2 id=&#34;toc_1&#34;&gt;done&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-09-22
+*&lt;/li&gt;
 &lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-07-29&lt;/li&gt;
 &lt;li&gt;add facebook link to icon on homepage&lt;/li&gt;
 &lt;li&gt;add twitter link to icon on homepage&lt;/li&gt;
@@ -45,43 +83,27 @@
 &lt;h2 id=&#34;toc_2&#34;&gt;to do&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;check typefaces for strapline and title - currently using google near-equivalents:
-font-family: &amp;lsquo;Roboto&amp;rsquo;, sans-serif;
-font-family: &amp;lsquo;Old Standard TT&amp;rsquo;, serif;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;contact page&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;image&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;locate&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;size 1280 × 720&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;prep if need&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;save and store&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;change link in body_nav partial&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;md page&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;template / placeholder&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;add image info&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;find text&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;add text&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;run hugo &amp;ndash;baseUrl=&amp;ldquo;/&amp;rdquo; to get local&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;test&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;run hugo again without &amp;ndash;baseUrl=&amp;ldquo;/&amp;rdquo; change image and other urls as nec for deploy&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;git add / ci&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;contact page&lt;/li&gt;
+&lt;li&gt;✔new page&lt;/li&gt;
+&lt;li&gt;✔image&lt;/li&gt;
+&lt;li&gt;locate&lt;/li&gt;
+&lt;li&gt;size 1280 × 720&lt;/li&gt;
+&lt;li&gt;prep if need&lt;/li&gt;
+&lt;li&gt;save and store&lt;/li&gt;
+&lt;li&gt;✔change link in body_nav partial&lt;/li&gt;
+&lt;li&gt;md page&lt;/li&gt;
+&lt;li&gt;template / placeholder&lt;/li&gt;
+&lt;li&gt;add image info&lt;/li&gt;
+&lt;li&gt;find text&lt;/li&gt;
+&lt;li&gt;add text&lt;/li&gt;
+&lt;li&gt;run hugo &amp;ndash;baseUrl=&amp;ldquo;/&amp;rdquo; to get local&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;run hugo again without &amp;ndash;baseUrl=&amp;ldquo;/&amp;rdquo; or with github baseUrl to change image and other urls as nec for deploy&lt;/li&gt;
+&lt;li&gt;git add / ci&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;git sync with github x 2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;how find us page&lt;/p&gt;&lt;/li&gt;
 
@@ -108,6 +130,10 @@ font-family: &amp;lsquo;Old Standard TT&amp;rsquo;, serif;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;terms and conditions text&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;wildlife text&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;check typefaces for strapline and title - currently using google near-equivalents:
+font-family: &amp;lsquo;Roboto&amp;rsquo;, sans-serif;
+font-family: &amp;lsquo;Old Standard TT&amp;rsquo;, serif;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;longterm: convert to cms&lt;/p&gt;&lt;/li&gt;
 
@@ -140,8 +166,11 @@ font-family: &amp;lsquo;Old Standard TT&amp;rsquo;, serif;&lt;/p&gt;&lt;/li&gt;
 
 &lt;p&gt;jack/Sites/anGearasdanMultiPage/workingAnGearasdan/demoLayouts/public/nav-wide-plus-bg-title-serif&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;jo info&lt;/em&gt;
-Sorry Jack - thought you knew it!
+&lt;p&gt;&lt;em&gt;jo info&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;JM mobile / and email. Also FB, Twitter. Do need company number &amp;ndash; and address 6 Coulindoune, Glenelg, Ross-shire, IV40 8J // Jo Macaskill, Ferry Development Officer, Isle of Skye Ferry Community Interest Company, 07881 634726, jo.glenelg-skyeferry@hotmail.co.uk, @FerrytoSkye, &lt;a href=&#34;https://www.facebook.com/GlenelgSkyeFerry?ref=hl&#34;&gt;https://www.facebook.com/GlenelgSkyeFerry?ref=hl&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;Sorry Jack - thought you knew it!
 6 Coulindoune, Glenelg, Ross-shire, IV40 8JU
 cheers
 Jo&lt;/p&gt;
@@ -167,10 +196,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry Shop</title>
-      <link>http://jacknicholas.github.io/shop.html</link>
+      <link>http://jacknicholas.github.io/skye-ferry-demo/shop.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/shop.html</guid>
+      <guid>http://jacknicholas.github.io/skye-ferry-demo/shop.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -286,10 +315,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry blog</title>
-      <link>http://jacknicholas.github.io/blog.html</link>
+      <link>http://jacknicholas.github.io/skye-ferry-demo/blog.html</link>
       <pubDate>Tue, 22 Jul 2014 11:20:49 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/blog.html</guid>
+      <guid>http://jacknicholas.github.io/skye-ferry-demo/blog.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Ferry Blog&lt;/h1&gt;
@@ -302,10 +331,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Times and Fares</title>
-      <link>http://jacknicholas.github.io/times-and-fares.html</link>
+      <link>http://jacknicholas.github.io/skye-ferry-demo/times-and-fares.html</link>
       <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
       
-      <guid>http://jacknicholas.github.io/times-and-fares.html</guid>
+      <guid>http://jacknicholas.github.io/skye-ferry-demo/times-and-fares.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
@@ -342,10 +371,10 @@ We will keep the site updated as to when we open and close for the season each y
     
     <item>
       <title>about and more</title>
-      <link>http://jacknicholas.github.io/about.html</link>
+      <link>http://jacknicholas.github.io/skye-ferry-demo/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/about.html</guid>
+      <guid>http://jacknicholas.github.io/skye-ferry-demo/about.html</guid>
       <description>testing the about page
 </description>
     </item>

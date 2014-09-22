@@ -11,6 +11,8 @@ done and to do
 
 ## done
 
+* >>>>>>>>>>>> 2014-09-22
+*
 * >>>>>>>>>>>> 2014-07-29
 * add facebook link to icon on homepage
 * add twitter link to icon on homepage
@@ -32,28 +34,26 @@ done and to do
 
 ## to do
 
-* check typefaces for strapline and title - currently using google near-equivalents:
-font-family: 'Roboto', sans-serif;
-font-family: 'Old Standard TT', serif;
-
-
 * contact page
-*   image
+* ✔new page
+*   ✔image
 *     locate
 *     size 1280 × 720
 *     prep if need
 *     save and store
-*   change link in body_nav partial
+*   ✔change link in body_nav partial
 *   md page
 *     template / placeholder
 *     add image info
 *     find text
-*     add text
+*   add text
 *   run hugo --baseUrl="/" to get local
 *   test
-*   run hugo again without --baseUrl="/" change image and other urls as nec for deploy
+*   run hugo again without --baseUrl="/" or with github baseUrl to change image and other urls as nec for deploy
 *   git add / ci
 *   git sync with github x 2
+
+* redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)
 
 * how find us page
 * links page
@@ -73,6 +73,9 @@ font-family: 'Old Standard TT', serif;
 * terms and conditions text
 * wildlife text
 
+* check typefaces for strapline and title - currently using google near-equivalents:
+font-family: 'Roboto', sans-serif;
+font-family: 'Old Standard TT', serif;
 
 * longterm: convert to cms
 * longterm: convert blog to cms and incorporate
@@ -111,6 +114,11 @@ jack/Sites/skyeFerry-Easter2014/working-skyeferry-2014/github-go-demo/skye-ferry
 jack/Sites/anGearasdanMultiPage/workingAnGearasdan/demoLayouts/public/nav-wide-plus-bg-title-serif
 
 _jo info_
+
+JM mobile / and email. Also FB, Twitter. Do need company number -- and address 6 Coulindoune, Glenelg, Ross-shire, IV40 8J // Jo Macaskill, Ferry Development Officer, Isle of Skye Ferry Community Interest Company, 07881 634726, jo.glenelg-skyeferry@hotmail.co.uk, @FerrytoSkye, https://www.facebook.com/GlenelgSkyeFerry?ref=hl,
+
+
+
 Sorry Jack - thought you knew it!
 6 Coulindoune, Glenelg, Ross-shire, IV40 8JU
 cheers
