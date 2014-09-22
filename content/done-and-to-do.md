@@ -13,7 +13,13 @@ done and to do
 
 * >>>>>>>>>>>> 2014-09-22
 * contact page
+* links page
 * redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)
+* archive history page ready for move to gpt site
+* add links and info to footer: delete "other stuff"
+* add links and info to footer: popover for company number
+* add links and info to footer: popover for heritage site
+* add links and info to footer: placeholder popover for terms and conditions
 * >>>>>>>>>>>> 2014-07-29
 * add facebook link to icon on homepage
 * add twitter link to icon on homepage
@@ -35,7 +41,7 @@ done and to do
 
 ## to do
 
-* links page
+* wildlife page
 * new page
 *   image
 *     locate
@@ -59,14 +65,7 @@ note on images: how find = flag / wild = eagle / links = music / gallery = crewh
 
 * how find us page
 * gallery page
-* wildlife page
 
-* archive history page
-
-* add links and info to footer: pop up modal for heritage site
-* add links and info to footer: company number
-* add links and info to footer: pop up modal for terms and conditions
-* add links and info to footer: delete "other stuff"
 * create paypal codes
 * add paypal codes / buttons to shop page
 
