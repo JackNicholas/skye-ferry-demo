@@ -11,4 +11,4 @@ alt: "wedding party on ferry"
 
 The Skye Ferry Blog is at <http://blog.skyeferry.co.uk/>
 
-We are always looking for new photographs to add to our blog, especially of the ferry or wildlife you may have seen around the Kylerhea straits. See the [contact page](/contact.html) for details of where to send your photos.
+We are always looking for new photographs to add to our blog, especially of the ferry or wildlife you may have seen around the Kylerhea straits. See the [contact page](contact.html) for details of where to send your photos.

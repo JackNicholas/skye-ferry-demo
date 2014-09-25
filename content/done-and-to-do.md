@@ -11,6 +11,9 @@ done and to do
 
 ## done
 
+* >>>>>>>>>>>> 2014-09-25
+* gallery page demo
+* refactor base urls
 * >>>>>>>>>>>> 2014-09-22
 * contact page
 * links page
@@ -64,10 +67,33 @@ done and to do
 note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse
 
 * how find us page
+
 * gallery page
+  * ✔ new page
+  * ✔ change navbar
+  * ✔ create image
+  * ✔ test
+  * ✔ new layout
+  * ✔ new front matter
+  * ✔ test
+  * ✔ partial function not template in layout
+  * ✔ test
+  * ✔ move gallery folders
+  * ✔ download files
+  * ✔ add to folder
+  * ✔ add lightbox files to layout
+  * ✔ add lightbox markup to md
+  * ✔ add lightbox list to md
+  * ✔ test
+  * github urls
+  * git
+  * upload
+  * test
 
 * create paypal codes
 * add paypal codes / buttons to shop page
+
+* partial function not template in layouts
 
 * terms and conditions text
 * wildlife text

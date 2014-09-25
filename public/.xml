@@ -3,18 +3,153 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://jacknicholas.github.io/skye-ferry-demo/index.xml</link>
+    <link>/index.xml</link>
     <language>en-uk</language>
     
     
-    <updated>Mon, 22 Sep 2014 14:51:47 BST</updated>
+    <updated>Thu, 25 Sep 2014 10:42:56 BST</updated>
+    
+    <item>
+      <title>gallery</title>
+      <link>/gallery.html</link>
+      <pubDate>Thu, 25 Sep 2014 10:42:56 BST</pubDate>
+      
+      <guid>/gallery.html</guid>
+      <description>&lt;!-- main content --&gt;
+
+&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+
+      &lt;h1&gt;Photo Gallery&lt;/h1&gt;
+
+    &lt;/div&gt;
+    &lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+
+
+
+
+        &lt;div id=&#34;links&#34;&gt;
+          &lt;a href=&#34;images/gallery/01.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/01.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/02.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/02.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/03.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/03.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/04.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/04.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/05.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/05.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/06.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/06.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/07.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/07.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/08.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/08.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/09.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/09.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/10.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/10.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/11.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/11.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/12.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/12.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/13.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/13.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/14.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/14.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/15.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/15.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/16.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/16.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/17.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/17.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/18.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/18.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/19.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/19.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/20.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/20.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/21.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/21.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/22.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/22.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/23.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/23.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/24.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/24.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_01.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_01.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_02.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_02.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_03.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_03.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_04.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_04.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_05.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_05.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_06.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_06.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_07.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_07.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_08.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_08.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+          &lt;a href=&#34;images/gallery/ferry_09.jpg&#34; title=&#34;Caption&#34; data-gallery&gt;
+              &lt;img src=&#34;images/gallery/tn/ferry_09.jpg&#34; alt=&#34;&#34;&gt;
+          &lt;/a&gt;
+
+
+
+        &lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>links</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/links.html</link>
+      <link>/links.html</link>
       <pubDate>Mon, 22 Sep 2014 14:51:47 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/links.html</guid>
+      <guid>/links.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Links&lt;/h1&gt;
@@ -267,10 +402,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/contact.html</link>
+      <link>/contact.html</link>
       <pubDate>Mon, 22 Sep 2014 13:56:15 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/contact.html</guid>
+      <guid>/contact.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Contact Us&lt;/h1&gt;
@@ -303,10 +438,10 @@
     
     <item>
       <title>Notes, to-do, done...</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/done-and-to-do.html</link>
+      <link>/done-and-to-do.html</link>
       <pubDate>Thu, 31 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/done-and-to-do.html</guid>
+      <guid>/done-and-to-do.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;done and to do&lt;/h1&gt;
@@ -370,13 +505,37 @@
 &lt;p&gt;note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;how find us page&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;how find us page&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;gallery page&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;gallery page&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ new page&lt;/li&gt;
+&lt;li&gt;✔ change navbar&lt;/li&gt;
+&lt;li&gt;✔ create image&lt;/li&gt;
+&lt;li&gt;✔ test&lt;/li&gt;
+&lt;li&gt;✔ new layout&lt;/li&gt;
+&lt;li&gt;✔ new front matter&lt;/li&gt;
+&lt;li&gt;✔ test&lt;/li&gt;
+&lt;li&gt;✔ partial function not template in layout&lt;/li&gt;
+&lt;li&gt;✔ test&lt;/li&gt;
+&lt;li&gt;✔ move gallery folders&lt;/li&gt;
+&lt;li&gt;✔ download files&lt;/li&gt;
+&lt;li&gt;✔ add to folder&lt;/li&gt;
+&lt;li&gt;✔ add lightbox files to layout&lt;/li&gt;
+&lt;li&gt;✔ add lightbox markup to md&lt;/li&gt;
+&lt;li&gt;✔ add lightbox list to md&lt;/li&gt;
+&lt;li&gt;✔ test&lt;/li&gt;
+&lt;li&gt;github urls&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;li&gt;upload&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;create paypal codes&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add paypal codes / buttons to shop page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;partial function not template in layouts&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;terms and conditions text&lt;/p&gt;&lt;/li&gt;
 
@@ -447,10 +606,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry Shop</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/shop.html</link>
+      <link>/shop.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/shop.html</guid>
+      <guid>/shop.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -566,26 +725,26 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry blog</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/blog.html</link>
+      <link>/blog.html</link>
       <pubDate>Tue, 22 Jul 2014 11:20:49 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/blog.html</guid>
+      <guid>/blog.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Ferry Blog&lt;/h1&gt;
 
 &lt;p&gt;The Skye Ferry Blog is at &lt;a href=&#34;http://blog.skyeferry.co.uk/&#34;&gt;http://blog.skyeferry.co.uk/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;We are always looking for new photographs to add to our blog, especially of the ferry or wildlife you may have seen around the Kylerhea straits. See the &lt;a href=&#34;/contact.html&#34;&gt;contact page&lt;/a&gt; for details of where to send your photos.&lt;/p&gt;
+&lt;p&gt;We are always looking for new photographs to add to our blog, especially of the ferry or wildlife you may have seen around the Kylerhea straits. See the &lt;a href=&#34;contact.html&#34;&gt;contact page&lt;/a&gt; for details of where to send your photos.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Times and Fares</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/times-and-fares.html</link>
+      <link>/times-and-fares.html</link>
       <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/times-and-fares.html</guid>
+      <guid>/times-and-fares.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
@@ -622,10 +781,10 @@ We will keep the site updated as to when we open and close for the season each y
     
     <item>
       <title>about and more</title>
-      <link>http://jacknicholas.github.io/skye-ferry-demo/about.html</link>
+      <link>/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>http://jacknicholas.github.io/skye-ferry-demo/about.html</guid>
+      <guid>/about.html</guid>
       <description>testing the about page
 </description>
     </item>
