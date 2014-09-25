@@ -58,37 +58,14 @@ done and to do
 *     demo components / add js files if req
 *     find text
 *     add text
-*   run hugo --baseUrl="/" to get local
+*   run hugo
 *   test
-*   run hugo again without --baseUrl="/" or with github baseUrl to change image and other urls as nec for deploy
 *   git add / ci
 *   git sync with github x 2
 
 note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse
 
 * how find us page
-
-* gallery page
-  * ✔ new page
-  * ✔ change navbar
-  * ✔ create image
-  * ✔ test
-  * ✔ new layout
-  * ✔ new front matter
-  * ✔ test
-  * ✔ partial function not template in layout
-  * ✔ test
-  * ✔ move gallery folders
-  * ✔ download files
-  * ✔ add to folder
-  * ✔ add lightbox files to layout
-  * ✔ add lightbox markup to md
-  * ✔ add lightbox list to md
-  * ✔ test
-  * github urls
-  * git
-  * upload
-  * test
 
 * create paypal codes
 * add paypal codes / buttons to shop page
