@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml</link>
+    <link>/index.xml</link>
     <language>en-uk</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>gallery</title>
-      <link>http://localhost:1313/gallery.html</link>
+      <link>/gallery.html</link>
       <pubDate>Thu, 25 Sep 2014 10:42:56 BST</pubDate>
       
-      <guid>http://localhost:1313/gallery.html</guid>
+      <guid>/gallery.html</guid>
       <description>&lt;!-- main content --&gt;
 
 &lt;div class=&#34;container&#34;&gt;
@@ -146,10 +146,10 @@
     
     <item>
       <title>links</title>
-      <link>http://localhost:1313/links.html</link>
+      <link>/links.html</link>
       <pubDate>Mon, 22 Sep 2014 14:51:47 BST</pubDate>
       
-      <guid>http://localhost:1313/links.html</guid>
+      <guid>/links.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Links&lt;/h1&gt;
@@ -293,6 +293,7 @@
            &lt;p&gt;&lt;a href=&#34;http://freightscotland.org&#34;&gt;Freight Scotland - Transport Information Portal&lt;/a&gt;&lt;/p&gt;
            &lt;p&gt;&lt;a href=&#34;http://www.gla.ac.uk/medicalgenetics/seakayaking_leven_linnhe.htm&#34;&gt;Glasgow University - Sea Kyaking at Ballachulish &lt;/a&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&#34;http://www.highland.gov.uk/yourenvironment/roadsandtransport/publictransport/ferries.htm&#34;&gt;Highland Council - Public Transport - Ferries &lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&#34;http://www.highlandtours.info&#34;&gt;Highland Tours - Specially designed day tours &lt;/a&gt;&lt;/p&gt;
          &lt;p&gt;&lt;a href=&#34;http://www.isle-of-skye-tour-guide.co.uk/&#34;&gt;Isle of Skye Tour Guide Company &lt;/a&gt;&lt;/p&gt;
           &lt;p&gt;&lt;a href=&#34;http://www.knoydart-ferry.co.uk/page2.html&#34;&gt;Knoydart Ferry - Ferry Service&lt;/a&gt;&lt;/p&gt;
           &lt;p&gt;&lt;a href=&#34;http://lochcoruisk.blogspot.com&#34;&gt;Misty Isle Boat Trips&lt;/a&gt;&lt;/p&gt;
@@ -402,10 +403,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact.html</link>
+      <link>/contact.html</link>
       <pubDate>Mon, 22 Sep 2014 13:56:15 BST</pubDate>
       
-      <guid>http://localhost:1313/contact.html</guid>
+      <guid>/contact.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Contact Us&lt;/h1&gt;
@@ -438,10 +439,10 @@
     
     <item>
       <title>Notes, to-do, done...</title>
-      <link>http://localhost:1313/done-and-to-do.html</link>
+      <link>/done-and-to-do.html</link>
       <pubDate>Thu, 31 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://localhost:1313/done-and-to-do.html</guid>
+      <guid>/done-and-to-do.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;done and to do&lt;/h1&gt;
@@ -584,10 +585,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry Shop</title>
-      <link>http://localhost:1313/shop.html</link>
+      <link>/shop.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://localhost:1313/shop.html</guid>
+      <guid>/shop.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -703,10 +704,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry blog</title>
-      <link>http://localhost:1313/blog.html</link>
+      <link>/blog.html</link>
       <pubDate>Tue, 22 Jul 2014 11:20:49 BST</pubDate>
       
-      <guid>http://localhost:1313/blog.html</guid>
+      <guid>/blog.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Ferry Blog&lt;/h1&gt;
@@ -719,10 +720,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Times and Fares</title>
-      <link>http://localhost:1313/times-and-fares.html</link>
+      <link>/times-and-fares.html</link>
       <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
       
-      <guid>http://localhost:1313/times-and-fares.html</guid>
+      <guid>/times-and-fares.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
@@ -759,10 +760,10 @@ We will keep the site updated as to when we open and close for the season each y
     
     <item>
       <title>about and more</title>
-      <link>http://localhost:1313/about.html</link>
+      <link>/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>http://localhost:1313/about.html</guid>
+      <guid>/about.html</guid>
       <description>testing the about page
 </description>
     </item>
