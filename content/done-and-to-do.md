@@ -12,7 +12,7 @@ done and to do
 ## done
 
 * >>>>>>>>>>>> 2014-12-23
-* how find us page
+* how find us page including chart
 * remove terms and conditions from footer as we don’t seem to have any!
 * reset local refs on images on shop page
 * wildlife text
