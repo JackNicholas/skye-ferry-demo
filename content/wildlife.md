@@ -28,4 +28,3 @@ Many different varieties of sea birds are common here too. Among the frequent vi
 
 <img class=”img-responsive” src=”images/wildlife/victor-closeup.jpg” alt=”Victor the sea eagle in close up”>
 
-
