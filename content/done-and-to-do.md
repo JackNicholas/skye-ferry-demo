@@ -11,6 +11,11 @@ done and to do
 
 ## done
 
+* >>>>>>>>>>>> 2014-12-23
+* terms and conditions text
+* wildlife text
+
+* wildlife page
 * >>>>>>>>>>>> 2014-09-25
 * gallery page demo
 * refactor base urls
@@ -46,8 +51,8 @@ done and to do
 
 * remove terms and conditions from footer
 * check new dropbox images, select best, add to gallery 
-
-* wildlife page
+* test images on shop page
+* update paypal codes on shop page
 * how find us page
 
 * new page
@@ -76,8 +81,6 @@ note on images: how find = flag / wild = eagle / links = music / gallery = crewh
 
 * partial function not template in layouts
 
-* terms and conditions text
-* wildlife text
 
 * check typefaces for strapline and title - currently using google near-equivalents:
 font-family: 'Roboto', sans-serif;
