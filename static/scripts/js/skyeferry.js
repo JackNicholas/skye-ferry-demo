@@ -37,7 +37,6 @@ $(document).ready(function() {
     };
 
     $('#pop-company').popover();
-    $('#pop-tc').popover();
     $('#pop-gpt').popover();
 
 });

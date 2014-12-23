@@ -12,9 +12,9 @@ done and to do
 ## done
 
 * >>>>>>>>>>>> 2014-12-23
-* terms and conditions text
+* remove terms and conditions from footer as we don’t seem to have any!
+* reset local refs on images on shop page
 * wildlife text
-
 * wildlife page
 * >>>>>>>>>>>> 2014-09-25
 * gallery page demo
@@ -49,9 +49,7 @@ done and to do
 
 ## to do
 
-* remove terms and conditions from footer
 * check new dropbox images, select best, add to gallery 
-* test images on shop page
 * update paypal codes on shop page
 * how find us page
 
@@ -73,7 +71,6 @@ done and to do
 *   git add / ci
 *   git sync with github x 2
 
-note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse
 
 
 * create paypal codes
@@ -149,3 +146,17 @@ Jennifer is happy for the heritage stuff to go on to the GPT site
 This e-mail address is the one to use.
 I'll get back to you about the postal address and the paypal and co number - will liaise with Clive
 Wild life page stuff I will add at  a later date - for now if you could mention sea eagles, ospreys, otters, seals, basking sharks dolphins etc - I can provide a filler in paragraph for now if that helps?
+
+_other notes_
+
+note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse
+
+
+
+    old t&c pop up 
+    <li><a id="pop-tc" href="#pop-tc" tabindex="2" data-toggle="popover" data-trigger="focus" data-placement="top" title="Terms and Conditions" data-content="Text to go here.">Terms and conditions</a></li>
+
+
+    $('#pop-tc').popover();
+
+
