@@ -3,18 +3,42 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml</link>
+    <link>/index.xml</link>
     <language>en-uk</language>
     
     
-    <updated>Thu, 25 Sep 2014 10:42:56 BST</updated>
+    <updated>Tue, 23 Dec 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Wildlife</title>
+      <link>/wildlife.html</link>
+      <pubDate>Tue, 23 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>/wildlife.html</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Wildlife at the ferry&lt;/h1&gt;
+
+&lt;p&gt;The Ferry and her slipways either side of the Kylerhea Narrows are a great place for wildlife spotting.&lt;/p&gt;
+
+&lt;p&gt;Many grey seals can be seen daily fishing deep, narrow sound, particularly on a flood tide (coming in) which brings a plethora of mackerel amongst other fish for the picking. They are curious animals and often come close to the slipways to get a good view of the goings on. It’s hard to determine sometimes who exactly is watching who!&lt;/p&gt;
+
+&lt;p&gt;Dolphins are seen too with the occasional pod diving around the ferry to the delight of passengers and crew.&lt;/p&gt;
+
+&lt;p&gt;Enormous basking sharks also take the route via the sound to sieve up the plentiful plankton – a sight that will really knock your socks off.&lt;/p&gt;
+
+&lt;p&gt;Otters can be seen also, although they are notoriously shy creatures and you need patience and a little luck to secure a sighting.&lt;/p&gt;
+
+&lt;p&gt;Many different varieties of sea birds are common here too. Among the frequent visitors are oyster catchers, on the rocks and shore, shags, cormorants, gulls of all sorts, shearwaters and many others. Eagles, buzzards and this year for the first time, ospreys. The king among them all, of course, has to be our resident sea eagle, named Victor after the prominent ‘V’ on his red wing tags. Victor and his partner Orla have fledged chicks in the locale for the last five years and this year, unusually, raised two youngsters. Victor takes his parenting very seriously and can be seen daily around the narrows harrying gulls on the flood tide to release their hard won catches to take home to feed the hungry nest occupants! He puts on a spectacular show each day and the ferry skipper is only too happy to spend a little longer on the crossing to provide an excellent view of this most majestic of birds.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>gallery</title>
-      <link>http://localhost:1313/gallery.html</link>
+      <link>/gallery.html</link>
       <pubDate>Thu, 25 Sep 2014 10:42:56 BST</pubDate>
       
-      <guid>http://localhost:1313/gallery.html</guid>
+      <guid>/gallery.html</guid>
       <description>&lt;!-- main content --&gt;
 
 &lt;div class=&#34;container&#34;&gt;
@@ -146,10 +170,10 @@
     
     <item>
       <title>links</title>
-      <link>http://localhost:1313/links.html</link>
+      <link>/links.html</link>
       <pubDate>Mon, 22 Sep 2014 14:51:47 BST</pubDate>
       
-      <guid>http://localhost:1313/links.html</guid>
+      <guid>/links.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Links&lt;/h1&gt;
@@ -403,10 +427,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact.html</link>
+      <link>/contact.html</link>
       <pubDate>Mon, 22 Sep 2014 13:56:15 BST</pubDate>
       
-      <guid>http://localhost:1313/contact.html</guid>
+      <guid>/contact.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Contact Us&lt;/h1&gt;
@@ -439,10 +463,10 @@
     
     <item>
       <title>Notes, to-do, done...</title>
-      <link>http://localhost:1313/done-and-to-do.html</link>
+      <link>/done-and-to-do.html</link>
       <pubDate>Thu, 31 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://localhost:1313/done-and-to-do.html</guid>
+      <guid>/done-and-to-do.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;done and to do&lt;/h1&gt;
@@ -606,10 +630,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry Shop</title>
-      <link>http://localhost:1313/shop.html</link>
+      <link>/shop.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>http://localhost:1313/shop.html</guid>
+      <guid>/shop.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -725,10 +749,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry blog</title>
-      <link>http://localhost:1313/blog.html</link>
+      <link>/blog.html</link>
       <pubDate>Tue, 22 Jul 2014 11:20:49 BST</pubDate>
       
-      <guid>http://localhost:1313/blog.html</guid>
+      <guid>/blog.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Ferry Blog&lt;/h1&gt;
@@ -741,10 +765,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Times and Fares</title>
-      <link>http://localhost:1313/times-and-fares.html</link>
+      <link>/times-and-fares.html</link>
       <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
       
-      <guid>http://localhost:1313/times-and-fares.html</guid>
+      <guid>/times-and-fares.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
@@ -781,10 +805,10 @@ We will keep the site updated as to when we open and close for the season each y
     
     <item>
       <title>about and more</title>
-      <link>http://localhost:1313/about.html</link>
+      <link>/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>http://localhost:1313/about.html</guid>
+      <guid>/about.html</guid>
       <description>testing the about page
 </description>
     </item>
