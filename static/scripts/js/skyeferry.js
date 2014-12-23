@@ -17,6 +17,7 @@ $(document).ready(function() {
       break;
     case 'find':
       $('#nav-find').addClass("active");
+      $('p img').addClass('img-responsive');
       break;
     case 'blog':
       $('#nav-blog').addClass("active");

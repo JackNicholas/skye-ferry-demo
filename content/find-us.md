@@ -20,7 +20,10 @@ The A82 will take you to Invermoriston where you turn right onto the A887. Conti
 
 A mountain pass, constructed in 1815, leads from Shiel Bridge to Glenelg. From sea level it twists and turns towards the summit of Mam Ratagan before making a more gradual descent. 30 minutes for the journey from Shiel Bridge to the ferry should be sufficient.
 
-You can find out more about Glenelg and the area that surrounds it [here](http://www.whats-there.co.uk).
+You can find out more about Glenelg and the area that surrounds it on [the local information site, whats-there.co.uk](http://www.whats-there.co.uk).
 
+## The Glenelg Skye Ferry route
+
+![map of glenelg skye ferry route](images/map-flyer2.jpg)
 
 
