@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <language>en-uk</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>gallery</title>
-      <link>/gallery.html</link>
+      <link>http://localhost:1313/gallery.html</link>
       <pubDate>Thu, 25 Sep 2014 10:42:56 BST</pubDate>
       
-      <guid>/gallery.html</guid>
+      <guid>http://localhost:1313/gallery.html</guid>
       <description>&lt;!-- main content --&gt;
 
 &lt;div class=&#34;container&#34;&gt;
@@ -146,10 +146,10 @@
     
     <item>
       <title>links</title>
-      <link>/links.html</link>
+      <link>http://localhost:1313/links.html</link>
       <pubDate>Mon, 22 Sep 2014 14:51:47 BST</pubDate>
       
-      <guid>/links.html</guid>
+      <guid>http://localhost:1313/links.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Links&lt;/h1&gt;
@@ -403,10 +403,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>/contact.html</link>
+      <link>http://localhost:1313/contact.html</link>
       <pubDate>Mon, 22 Sep 2014 13:56:15 BST</pubDate>
       
-      <guid>/contact.html</guid>
+      <guid>http://localhost:1313/contact.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Contact Us&lt;/h1&gt;
@@ -439,10 +439,10 @@
     
     <item>
       <title>Notes, to-do, done...</title>
-      <link>/done-and-to-do.html</link>
+      <link>http://localhost:1313/done-and-to-do.html</link>
       <pubDate>Thu, 31 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>/done-and-to-do.html</guid>
+      <guid>http://localhost:1313/done-and-to-do.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;done and to do&lt;/h1&gt;
@@ -485,32 +485,53 @@
 &lt;h2 id=&#34;toc_2&#34;&gt;to do&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;wildlife page&lt;/li&gt;
-&lt;li&gt;new page&lt;/li&gt;
-&lt;li&gt;image&lt;/li&gt;
-&lt;li&gt;locate&lt;/li&gt;
-&lt;li&gt;size 1280 × 720&lt;/li&gt;
-&lt;li&gt;prep if need&lt;/li&gt;
-&lt;li&gt;save and store&lt;/li&gt;
-&lt;li&gt;change link in body_nav partial&lt;/li&gt;
-&lt;li&gt;md page&lt;/li&gt;
-&lt;li&gt;template / placeholder&lt;/li&gt;
-&lt;li&gt;add image info&lt;/li&gt;
-&lt;li&gt;demo components / add js files if req&lt;/li&gt;
-&lt;li&gt;find text&lt;/li&gt;
-&lt;li&gt;add text&lt;/li&gt;
-&lt;li&gt;run hugo&lt;/li&gt;
-&lt;li&gt;test&lt;/li&gt;
-&lt;li&gt;git add / ci&lt;/li&gt;
-&lt;li&gt;git sync with github x 2&lt;/li&gt;
+&lt;li&gt;remove terms and conditions from footer&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;check new dropbox images, select best, add to gallery&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;wildlife page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;how find us page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;new page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;image&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;locate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;size 1280 × 720&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;prep if need&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;save and store&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;change link in body_nav partial&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;md page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;template / placeholder&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add image info&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;demo components / add js files if req&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;find text&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add text&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;run hugo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;test&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;git add / ci&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;git sync with github x 2&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;how find us page&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;create paypal codes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;create paypal codes&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;add paypal codes / buttons to shop page&lt;/p&gt;&lt;/li&gt;
 
@@ -585,10 +606,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry Shop</title>
-      <link>/shop.html</link>
+      <link>http://localhost:1313/shop.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>/shop.html</guid>
+      <guid>http://localhost:1313/shop.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -704,10 +725,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Ferry blog</title>
-      <link>/blog.html</link>
+      <link>http://localhost:1313/blog.html</link>
       <pubDate>Tue, 22 Jul 2014 11:20:49 BST</pubDate>
       
-      <guid>/blog.html</guid>
+      <guid>http://localhost:1313/blog.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Ferry Blog&lt;/h1&gt;
@@ -720,10 +741,10 @@ Wild life page stuff I will add at  a later date - for now if you could mention 
     
     <item>
       <title>Times and Fares</title>
-      <link>/times-and-fares.html</link>
+      <link>http://localhost:1313/times-and-fares.html</link>
       <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
       
-      <guid>/times-and-fares.html</guid>
+      <guid>http://localhost:1313/times-and-fares.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
@@ -760,10 +781,10 @@ We will keep the site updated as to when we open and close for the season each y
     
     <item>
       <title>about and more</title>
-      <link>/about.html</link>
+      <link>http://localhost:1313/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>/about.html</guid>
+      <guid>http://localhost:1313/about.html</guid>
       <description>testing the about page
 </description>
     </item>

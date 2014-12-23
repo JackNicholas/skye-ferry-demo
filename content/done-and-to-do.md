@@ -44,7 +44,12 @@ done and to do
 
 ## to do
 
+* remove terms and conditions from footer
+* check new dropbox images, select best, add to gallery 
+
 * wildlife page
+* how find us page
+
 * new page
 *   image
 *     locate
@@ -65,7 +70,6 @@ done and to do
 
 note on images: how find = flag / wild = eagle / links = music / gallery = crewhouse
 
-* how find us page
 
 * create paypal codes
 * add paypal codes / buttons to shop page
