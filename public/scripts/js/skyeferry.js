@@ -23,6 +23,7 @@ $(document).ready(function() {
       break;
     case 'wildlife':
       $('#nav-wildlife').addClass("active");
+      $('p img').addClass('img-responsive');
       break;
     case 'gallery':
       $('#nav-gallery').addClass("active");
