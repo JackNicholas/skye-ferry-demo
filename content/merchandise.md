@@ -1,87 +1,12 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+---
+alt: "cars disembarking from the ferry onto the mainland"
+bodyid: "shop"
+date: 2014-07-22T15:59:52+01:00
+image: "cars_disembarking_glenelg_1280_720.jpg"
+title: "Ferry Shop"
+---
 
-    <link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:700' rel='stylesheet' type='text/css'>
-
-    <title>Ferry Shop: Skye Ferry</title>
-    
-<link href="styles/css/bootstrap.css" rel="stylesheet">
-<link href="styles/css/skyeferry.css" rel="stylesheet">
-
-
-
-
-
-    
-<link rel="shortcut icon" href="/ico/favicon.ico">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/ferry_icon_144_144.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/ferry_icon_114_114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/ferry_icon_72_72.png">
-<link rel="apple-touch-icon-precomposed" href="ico/ferry_icon_57_57.png">
-
-  </head>
-
-  <body id="shop">
-
-    <nav class="navbar navbar-default" role="navigation">
-  <div class="container-fluid">
-    
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand masthead-logotype" href="#">GLENELG<sup> . </sup>SKYE FERRY</a>
-    </div>
-
-    
-    <div class="collapse navbar-collapse" id="main-menu">
-      <ul class="nav navbar-nav">
-        <li id="nav-home"><a href="index.html">Home</a></li>
-        <li id="nav-fares"><a href="times-and-fares.html">Times and Fares</a></li>
-        <li id="nav-shop"><a href="merchandise.html">Shop</a></li>
-        <li id="nav-about" class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li id="nav-find"><a href="find-us.html">How to find us</a></li>
-            <li class="divider"></li>
-            <li id="nav-blog"><a href="blog.html">Our blog</a></li>
-            <li class="divider"></li>
-            <li id="nav-wildlife"><a href="wildlife.html">Wildlife</a></li>
-            <li class="divider"></li>
-            <li id="nav-gallery"><a href="gallery.html">Gallery</a></li>
-            <li class="divider"></li>
-            <li id="nav-links"><a href="links.html">Links</a></li>
-          </ul>
-        </li>
-        <li id="nav-contact"><a href="contact.html">Contact</a></li>
-      </ul>
-
-    </div>
-  </div>
-</nav>
-
-
-    
-    <div>
-  <img class="img-responsive" src="images/cars_disembarking_glenelg_1280_720.jpg" alt="cars disembarking from the ferry onto the mainland">
-</div>
-
-
-    
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-          <article id="content">
-           
-
-<h1 id="toc_0">The Skye Ferry shop</h1>
+# The Skye Ferry shop
 
 <div class="table-responsive">
   <table class="table table-striped">
@@ -104,7 +29,7 @@
       <td>
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="YPC9U59YFBE46">
+        <input type="hidden" name="hosted_button_id" value="YPC9U59YFBE46>
         <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -123,10 +48,10 @@
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="NYBWMUGCPDEYU">
       <td><input type="hidden" name="on0" value="Size"><select name="os0">
-    <option value="Small">Small £12.00</option>
-    <option value="Medium">Medium £12.00</option>
-    <option value="Large">Large £12.00</option>
-    <option value="Extra Large">Extra Large £12.00</option></select>
+	<option value="Small">Small £12.00</option>
+	<option value="Medium">Medium £12.00</option>
+	<option value="Large">Large £12.00</option>
+	<option value="Extra Large">Extra Large £12.00</option></select>
 </td>
       <td><input type="hidden" name="currency_code" value="GBP">
       <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
@@ -141,10 +66,10 @@
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="XX9TGPHK5HLXL">
       <td><input type="hidden" name="on0" value="Size"><select name="os0">
-    <option value="Small">Small £15.00</option>
-    <option value="Medium">Medium £15.00</option>
-    <option value="Large">Large £15.00</option>
-    <option value="Extra Large">Extra Large £15.00</option></select>
+	<option value="Small">Small £15.00</option>
+	<option value="Medium">Medium £15.00</option>
+	<option value="Large">Large £15.00</option>
+	<option value="Extra Large">Extra Large £15.00</option></select>
 </td>
       <td><input type="hidden" name="currency_code" value="GBP">
       <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
@@ -208,30 +133,3 @@
     </tr>
   </table>
 </div>
-
-          </article>
-        </div>
-      </div>
-    </div>
-
-
-    <nav class="navbar navbar-inverse" role="navigation">
-  <ul class="nav navbar-nav" id="footer-links">
-
-    <li><a id="pop-company" href="#pop-company" tabindex="0" data-toggle="popover" data-trigger="focus" data-placement="top" title="Skye Ferry CIC" data-content="Company Number: SC297537 (We are a Community Interest Company. )">Company Information</a></li>
-
-    <li><a id="pop-gpt" href="#pop-gpt" tabindex="1" data-toggle="popover" data-trigger="focus" data-placement="top" title="Glenachulish Preservation Trust" data-content="We are supported by the charity, the Glenachulish Preservation Trust. See their site at http://gptskyeferrycharity.com for information.">Heritage Site</a></li>
-
-
-</nav>
-
-    
-<script src="scripts/js/jquery.min.js"></script>
-
-<script src="scripts/js/bootstrap.min.js"></script>
-
-<script src="scripts/js/skyeferry.js"></script>
-
-
-  </body>
-</html>
