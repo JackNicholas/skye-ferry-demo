@@ -11,9 +11,9 @@ title: "Ferry Shop"
 <div class="table-responsive">
   <table class="table table-striped">
     <tr>
-      <td><img alt="mug" height="100" width="97" src="images/shop/mug.gif"></td>
+      <td><img alt="mug" height="100" width="97" src="/images/shop/mug.gif"></td>
       <td>Skye Ferry mug</td>
-      <td>&pound;5.00</td>
+      <td>&pound;7.50</td>
       <td>
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -23,9 +23,9 @@ title: "Ferry Shop"
       </td>
     </tr>
     <tr>
-      <td><img alt="cap" height="97" width="100" src="images/shop/cap.jpg"></td>
+      <td><img alt="cap" height="97" width="100" src="/images/shop/cap.jpg"></td>
       <td>Skye Ferry cap</td>
-      <td>&pound;10.00</td>
+      <td>&pound;12.50</td>
       <td>
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -42,16 +42,16 @@ title: "Ferry Shop"
 
 
     <tr>
-      <td><img alt="man t-shirt" height="106" width="100" src="images/shop/t-shirt.gif"></td>
+      <td><img alt="man t-shirt" height="106" width="100" src="/images/shop/t-shirt.gif"></td>
       <td>Men's t-shirt</td>
       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="NYBWMUGCPDEYU">
       <td><input type="hidden" name="on0" value="Size"><select name="os0">
-	<option value="Small">Small £12.00</option>
-	<option value="Medium">Medium £12.00</option>
-	<option value="Large">Large £12.00</option>
-	<option value="Extra Large">Extra Large £12.00</option></select>
+	<option value="Small">Small £14.50</option>
+	<option value="Medium">Medium £14.50</option>
+	<option value="Large">Large £14.50</option>
+	<option value="Extra Large">Extra Large £14.50</option>
 </td>
       <td><input type="hidden" name="currency_code" value="GBP">
       <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
@@ -60,38 +60,27 @@ title: "Ferry Shop"
     </tr>
 
     <tr>
-      <td><img alt="lady's t-shirt" height="178" width="150" src="images/shop/ladies-t-shirt.jpg"></td>
+      <td><img alt="lady's t-shirt" height="178" width="150" src="/images/shop/ladies-t-shirt.jpg"></td>
       <td>Ladies' t-shirt</td>
-      <<td><form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”>
-      <input type=”hidden” name=”cmd” value=”_s-xclick”>
-      <input type=”hidden” name=”hosted_button_id” value=”XX9TGPHK5HLXL”>
-      <input type="hidden" name="on0" value="Size"><select name="os0">
-  <option value="Small">Small £15.00</option>
-  <option value="Medium">Medium £15.00</option>
-  <option value="Large">Large £15.00</option>
-  <option value="Extra Large">Extra Large £15.00</option></select></td>
-      <td><input type=”hidden” name=”currency_code” value=”GBP”>
-      <input type=”image” src=”https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif” border=”0” name=”submit” alt=”PayPal – The safer, easier way to pay online.”>
-      <img alt=”” border=”0” src=”https://www.paypalobjects.com/en_GB/i/scr/pixel.gif” width=”1” height=”1”>
-      </form></td>
+      <td><input type="hidden" name="on0" value="Size"><select name="os0">
+  <option value="Small">Small £14.50</option>
+  <option value="Medium">Medium £14.50</option>
+  <option value="Large">Large £14.50</option>
+  <option value="Extra Large">Extra Large £14.50</option></td>
+      <td>need paypal code</td>
     </tr>
 
 
     <tr>
-      <td><img alt="kid's t-shirt" height="134" width="150" src="images/shop/kids-t-shirt.jpg"></td>
+      <td><img alt="kid's t-shirt" height="134" width="150" src="/images/shop/kids-t-shirt.jpg"></td>
       <td>Child's t-shirt</td>
-      <form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”>
-      <input type=”hidden” name=”cmd” value=”_s-xclick”>
-      <input type=”hidden” name=”hosted_button_id” value=”9WNRX92EUAT7S”>
       <td>&pound;9.00</td>
-      <td><input type=”image” src=”https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif” border=”0” name=”submit” alt=”PayPal – The safer, easier way to pay online.”>
-      <img alt=”” border=”0” src=”https://www.paypalobjects.com/en_GB/i/scr/pixel.gif” width=”1” height=”1”>
-      </form></td>
+      <td>need paypal code</td>
     </tr>
 
 
     <tr>
-      <td><img alt="book: Scotland's Turntable Ferries" height="141" width="150" src="images/shop/ferry-book.png"></td>
+      <td><img alt="book: Scotland's Turntable Ferries" height="141" width="150" src="/images/shop/ferry-book.png"></td>
       <td>&quot;Scotland's Turntable Ferries&quot; <br>104-page book with Colour and B & W illustrations</td>
       <td>&pound;18.50</td>
       <td>
@@ -106,15 +95,10 @@ title: "Ferry Shop"
 
 
     <tr>
-      <td><img alt="tea towel" height="250" width="150" src="images/shop/tea-towel.png"></td>
+      <td><img alt="tea towel" height="250" width="150" src="/images/shop/tea-towel.png"></td>
       <td>Skye Ferry tea towel</td>
       <td>&pound;5.00</td>
-      <td><form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”>
-      <input type=”hidden” name=”cmd” value=”_s-xclick”>
-      <input type=”hidden” name=”hosted_button_id” value=”ABNEVUJR5K6FC”>
-      <input type=”image” src=”https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif” border=”0” name=”submit” alt=”PayPal – The safer, easier way to pay online.”>
-      <img alt=”” border=”0” src=”https://www.paypalobjects.com/en_GB/i/scr/pixel.gif” width=”1” height=”1”>
-      </form></td>
+      <td>need paypal code</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
