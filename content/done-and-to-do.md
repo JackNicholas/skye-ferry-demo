@@ -52,6 +52,7 @@ done and to do
 
 * check new dropbox images, select best, add to gallery 
 * update paypal codes on shop page
+* change shop page name to merchandise and change menu to match
 
 * new page
 *   image

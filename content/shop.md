@@ -29,7 +29,7 @@ title: "Ferry Shop"
       <td>
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="ABNEVUJR5K6FC">
+        <input type="hidden" name="hosted_button_id" value="YPC9U59YFBE46">
         <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -51,7 +51,7 @@ title: "Ferry Shop"
 	<option value="Small">Small £12.00</option>
 	<option value="Medium">Medium £12.00</option>
 	<option value="Large">Large £12.00</option>
-	<option value="Extra Large">Extra Large £12.00</option>
+	<option value="Extra Large">Extra Large £12.00</option></select>
 </td>
       <td><input type="hidden" name="currency_code" value="GBP">
       <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
@@ -62,12 +62,19 @@ title: "Ferry Shop"
     <tr>
       <td><img alt="lady's t-shirt" height="178" width="150" src="/images/shop/ladies-t-shirt.jpg"></td>
       <td>Ladies' t-shirt</td>
+      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="XX9TGPHK5HLXL">
       <td><input type="hidden" name="on0" value="Size"><select name="os0">
-  <option value="Small">Small £15.00</option>
-  <option value="Medium">Medium £15.00</option>
-  <option value="Large">Large £15.00</option>
-  <option value="Extra Large">Extra Large £15.00</option></td>
-      <td>need paypal code</td>
+	<option value="Small">Small £15.00</option>
+	<option value="Medium">Medium £15.00</option>
+	<option value="Large">Large £15.00</option>
+	<option value="Extra Large">Extra Large £15.00</option></select>
+</td>
+      <td><input type="hidden" name="currency_code" value="GBP">
+      <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+      </form></td>
     </tr>
 
 
@@ -75,7 +82,12 @@ title: "Ferry Shop"
       <td><img alt="kid's t-shirt" height="134" width="150" src="/images/shop/kids-t-shirt.jpg"></td>
       <td>Child's t-shirt</td>
       <td>&pound;9.00</td>
-      <td>need paypal code</td>
+      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="9WNRX92EUAT7S">
+      <td><input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1"></td>
+      </form>
     </tr>
 
 
@@ -98,8 +110,15 @@ title: "Ferry Shop"
       <td><img alt="tea towel" height="250" width="150" src="/images/shop/tea-towel.png"></td>
       <td>Skye Ferry tea towel</td>
       <td>&pound;5.00</td>
-      <td>need paypal code</td>
-    </tr>
+      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="ABNEVUJR5K6FC">
+      <td><input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1"></td>
+      </form>
+   </tr>
+
+
     <tr>
       <td>&nbsp;</td>
       <td>Free Skye Ferry car sticker with orders over &pound;20</td>

@@ -556,8 +556,9 @@
 
 &lt;ul&gt;
 &lt;li&gt;check new dropbox images, select best, add to gallery&lt;/li&gt;
+&lt;li&gt;update paypal codes on shop page&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;update paypal codes on shop page&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;change shop page name to merchandise and change menu to match&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;new page&lt;/p&gt;&lt;/li&gt;
 
@@ -704,7 +705,7 @@ $(&#39;#pop-tc&#39;).popover();
       &lt;td&gt;
         &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
         &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
-        &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;ABNEVUJR5K6FC&#34;&gt;
+        &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;YPC9U59YFBE46&#34;&gt;
         &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal – The safer, easier way to pay online.&#34;&gt;
         &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
         &lt;/form&gt;
@@ -726,7 +727,7 @@ $(&#39;#pop-tc&#39;).popover();
     &lt;option value=&#34;Small&#34;&gt;Small £12.00&lt;/option&gt;
     &lt;option value=&#34;Medium&#34;&gt;Medium £12.00&lt;/option&gt;
     &lt;option value=&#34;Large&#34;&gt;Large £12.00&lt;/option&gt;
-    &lt;option value=&#34;Extra Large&#34;&gt;Extra Large £12.00&lt;/option&gt;
+    &lt;option value=&#34;Extra Large&#34;&gt;Extra Large £12.00&lt;/option&gt;&lt;/select&gt;
 &lt;/td&gt;
       &lt;td&gt;&lt;input type=&#34;hidden&#34; name=&#34;currency_code&#34; value=&#34;GBP&#34;&gt;
       &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal – The safer, easier way to pay online.&#34;&gt;
@@ -737,12 +738,19 @@ $(&#39;#pop-tc&#39;).popover();
     &lt;tr&gt;
       &lt;td&gt;&lt;img alt=&#34;lady&#39;s t-shirt&#34; height=&#34;178&#34; width=&#34;150&#34; src=&#34;/images/shop/ladies-t-shirt.jpg&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Ladies&#39; t-shirt&lt;/td&gt;
+      &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;XX9TGPHK5HLXL&#34;&gt;
       &lt;td&gt;&lt;input type=&#34;hidden&#34; name=&#34;on0&#34; value=&#34;Size&#34;&gt;&lt;select name=&#34;os0&#34;&gt;
-  &lt;option value=&#34;Small&#34;&gt;Small £15.00&lt;/option&gt;
-  &lt;option value=&#34;Medium&#34;&gt;Medium £15.00&lt;/option&gt;
-  &lt;option value=&#34;Large&#34;&gt;Large £15.00&lt;/option&gt;
-  &lt;option value=&#34;Extra Large&#34;&gt;Extra Large £15.00&lt;/option&gt;&lt;/td&gt;
-      &lt;td&gt;need paypal code&lt;/td&gt;
+    &lt;option value=&#34;Small&#34;&gt;Small £15.00&lt;/option&gt;
+    &lt;option value=&#34;Medium&#34;&gt;Medium £15.00&lt;/option&gt;
+    &lt;option value=&#34;Large&#34;&gt;Large £15.00&lt;/option&gt;
+    &lt;option value=&#34;Extra Large&#34;&gt;Extra Large £15.00&lt;/option&gt;&lt;/select&gt;
+&lt;/td&gt;
+      &lt;td&gt;&lt;input type=&#34;hidden&#34; name=&#34;currency_code&#34; value=&#34;GBP&#34;&gt;
+      &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal – The safer, easier way to pay online.&#34;&gt;
+      &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
+      &lt;/form&gt;&lt;/td&gt;
     &lt;/tr&gt;
 
 
@@ -750,7 +758,12 @@ $(&#39;#pop-tc&#39;).popover();
       &lt;td&gt;&lt;img alt=&#34;kid&#39;s t-shirt&#34; height=&#34;134&#34; width=&#34;150&#34; src=&#34;/images/shop/kids-t-shirt.jpg&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Child&#39;s t-shirt&lt;/td&gt;
       &lt;td&gt;&amp;pound;9.00&lt;/td&gt;
-      &lt;td&gt;need paypal code&lt;/td&gt;
+      &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;9WNRX92EUAT7S&#34;&gt;
+      &lt;td&gt;&lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal – The safer, easier way to pay online.&#34;&gt;
+      &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;&lt;/td&gt;
+      &lt;/form&gt;
     &lt;/tr&gt;
 
 
@@ -773,8 +786,15 @@ $(&#39;#pop-tc&#39;).popover();
       &lt;td&gt;&lt;img alt=&#34;tea towel&#34; height=&#34;250&#34; width=&#34;150&#34; src=&#34;/images/shop/tea-towel.png&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Skye Ferry tea towel&lt;/td&gt;
       &lt;td&gt;&amp;pound;5.00&lt;/td&gt;
-      &lt;td&gt;need paypal code&lt;/td&gt;
-    &lt;/tr&gt;
+      &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;ABNEVUJR5K6FC&#34;&gt;
+      &lt;td&gt;&lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal – The safer, easier way to pay online.&#34;&gt;
+      &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_GB/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;&lt;/td&gt;
+      &lt;/form&gt;
+   &lt;/tr&gt;
+
+
     &lt;tr&gt;
       &lt;td&gt;&amp;nbsp;&lt;/td&gt;
       &lt;td&gt;Free Skye Ferry car sticker with orders over &amp;pound;20&lt;/td&gt;
