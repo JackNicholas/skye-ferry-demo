@@ -737,7 +737,7 @@ $(&#39;#pop-tc&#39;).popover();
     &lt;tr&gt;
       &lt;td&gt;&lt;img alt=&#34;lady&#39;s t-shirt&#34; height=&#34;178&#34; width=&#34;150&#34; src=&#34;images/shop/ladies-t-shirt.jpg&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Ladies&#39; t-shirt&lt;/td&gt;
-      &lt;&lt;td&gt;form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”&gt;
+      &lt;&lt;td&gt;&lt;form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”&gt;
       &lt;input type=”hidden” name=”cmd” value=”_s-xclick”&gt;
       &lt;input type=”hidden” name=”hosted_button_id” value=”XX9TGPHK5HLXL”&gt;
       &lt;input type=&#34;hidden&#34; name=&#34;on0&#34; value=&#34;Size&#34;&gt;&lt;select name=&#34;os0&#34;&gt;

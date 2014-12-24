@@ -62,7 +62,7 @@ title: "Ferry Shop"
     <tr>
       <td><img alt="lady's t-shirt" height="178" width="150" src="images/shop/ladies-t-shirt.jpg"></td>
       <td>Ladies' t-shirt</td>
-      <<td>form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”>
+      <<td><form target=”paypal” action=”https://www.paypal.com/cgi-bin/webscr” method=”post”>
       <input type=”hidden” name=”cmd” value=”_s-xclick”>
       <input type=”hidden” name=”hosted_button_id” value=”XX9TGPHK5HLXL”>
       <input type="hidden" name="on0" value="Size"><select name="os0">
