@@ -514,51 +514,281 @@
 &lt;h2 id=&#34;toc_1&#34;&gt;done&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-12-23&lt;/li&gt;
-&lt;li&gt;how find us page including chart&lt;/li&gt;
-&lt;li&gt;remove terms and conditions from footer as we don’t seem to have any!&lt;/li&gt;
-&lt;li&gt;reset local refs on images on shop page&lt;/li&gt;
-&lt;li&gt;wildlife text&lt;/li&gt;
-&lt;li&gt;wildlife page&lt;/li&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-09-25&lt;/li&gt;
-&lt;li&gt;gallery page demo&lt;/li&gt;
-&lt;li&gt;refactor base urls&lt;/li&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-09-22&lt;/li&gt;
-&lt;li&gt;contact page&lt;/li&gt;
-&lt;li&gt;links page&lt;/li&gt;
-&lt;li&gt;redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)&lt;/li&gt;
-&lt;li&gt;archive history page ready for move to gpt site&lt;/li&gt;
-&lt;li&gt;add links and info to footer: delete &amp;ldquo;other stuff&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;add links and info to footer: popover for company number&lt;/li&gt;
-&lt;li&gt;add links and info to footer: popover for heritage site&lt;/li&gt;
-&lt;li&gt;add links and info to footer: placeholder popover for terms and conditions&lt;/li&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-07-29&lt;/li&gt;
-&lt;li&gt;add facebook link to icon on homepage&lt;/li&gt;
-&lt;li&gt;add twitter link to icon on homepage&lt;/li&gt;
-&lt;li&gt;start modal prep for footer&lt;/li&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-07-28&lt;/li&gt;
-&lt;li&gt;correct link from latest news box on homepage&lt;/li&gt;
-&lt;li&gt;correct link from times and fares box on homepage&lt;/li&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 2014-07-28&lt;/li&gt;
-&lt;li&gt;Change the &amp;lsquo;community-owned&amp;rsquo; phrase to &amp;ldquo;The Original Glenelg-Skye Ferry&amp;rdquo; on homepage&lt;/li&gt;
-&lt;li&gt;basic blog page with link to current blog&lt;/li&gt;
-&lt;li&gt;set up default front matter archetype in site generation programme&lt;/li&gt;
-&lt;li&gt;set up shop page (still needs paypal codes to generate buttons for new items)&lt;/li&gt;
-&lt;li&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; initial set up&lt;/li&gt;
-&lt;li&gt;changed blue of title to that of kid&amp;rsquo;s t-shirt image. #100B60 - is this right?&lt;/li&gt;
-&lt;li&gt;logotype and top menu&lt;/li&gt;
-&lt;li&gt;add favicons&lt;/li&gt;
-&lt;li&gt;add twitter feed&lt;/li&gt;
-&lt;li&gt;basic homepage layout&lt;/li&gt;
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-12-24&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;update paypal codes on shop page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;change shop page name to merchandise and change menu to match&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-12-23&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;how find us page including chart&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;remove terms and conditions from footer as we don’t seem to have any!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;reset local refs on images on shop page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;wildlife text&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;wildlife page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-09-25&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;gallery page demo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;refactor base urls&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-09-22&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;contact page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;links page&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;redirect info@ to jo.glenelg-skyeferry@hotmail.co.uk (was glenelgferry@hotmail.co.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;archive history page ready for move to gpt site&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add links and info to footer: delete &amp;ldquo;other stuff&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add links and info to footer: popover for company number&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add links and info to footer: popover for heritage site&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add links and info to footer: placeholder popover for terms and conditions&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-07-29&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add facebook link to icon on homepage&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add twitter link to icon on homepage&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;start modal prep for footer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-07-28&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;correct link from latest news box on homepage&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;correct link from times and fares box on homepage&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2014-07-28&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Change the &amp;lsquo;community-owned&amp;rsquo; phrase to &amp;ldquo;The Original Glenelg-Skye Ferry&amp;rdquo; on homepage&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;basic blog page with link to current blog&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;set up default front matter archetype in site generation programme&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;set up shop page (still needs paypal codes to generate buttons for new items)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;initial set up&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;changed blue of title to that of kid&amp;rsquo;s t-shirt image. #100B60 - is this right?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;logotype and top menu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add favicons&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;add twitter feed&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;basic homepage layout&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;toc_2&#34;&gt;to do&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;check new dropbox images, select best, add to gallery&lt;/li&gt;
-&lt;li&gt;update paypal codes on shop page&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;change shop page name to merchandise and change menu to match&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;check new dropbox images, select best, add to gallery&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;new page&lt;/p&gt;&lt;/li&gt;
 
@@ -687,7 +917,7 @@ $(&#39;#pop-tc&#39;).popover();
 &lt;div class=&#34;table-responsive&#34;&gt;
   &lt;table class=&#34;table table-striped&#34;&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;mug&#34; height=&#34;100&#34; width=&#34;97&#34; src=&#34;/images/shop/mug.gif&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;mug&#34; height=&#34;100&#34; width=&#34;97&#34; src=&#34;images/shop/mug.gif&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Skye Ferry mug&lt;/td&gt;
       &lt;td&gt;&amp;pound;5.00&lt;/td&gt;
       &lt;td&gt;
@@ -699,7 +929,7 @@ $(&#39;#pop-tc&#39;).popover();
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;cap&#34; height=&#34;97&#34; width=&#34;100&#34; src=&#34;/images/shop/cap.jpg&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;cap&#34; height=&#34;97&#34; width=&#34;100&#34; src=&#34;images/shop/cap.jpg&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Skye Ferry cap&lt;/td&gt;
       &lt;td&gt;&amp;pound;10.00&lt;/td&gt;
       &lt;td&gt;
@@ -718,7 +948,7 @@ $(&#39;#pop-tc&#39;).popover();
 
 
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;man t-shirt&#34; height=&#34;106&#34; width=&#34;100&#34; src=&#34;/images/shop/t-shirt.gif&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;man t-shirt&#34; height=&#34;106&#34; width=&#34;100&#34; src=&#34;images/shop/t-shirt.gif&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Men&#39;s t-shirt&lt;/td&gt;
       &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
   &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
@@ -736,7 +966,7 @@ $(&#39;#pop-tc&#39;).popover();
     &lt;/tr&gt;
 
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;lady&#39;s t-shirt&#34; height=&#34;178&#34; width=&#34;150&#34; src=&#34;/images/shop/ladies-t-shirt.jpg&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;lady&#39;s t-shirt&#34; height=&#34;178&#34; width=&#34;150&#34; src=&#34;images/shop/ladies-t-shirt.jpg&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Ladies&#39; t-shirt&lt;/td&gt;
       &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
   &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
@@ -755,7 +985,7 @@ $(&#39;#pop-tc&#39;).popover();
 
 
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;kid&#39;s t-shirt&#34; height=&#34;134&#34; width=&#34;150&#34; src=&#34;/images/shop/kids-t-shirt.jpg&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;kid&#39;s t-shirt&#34; height=&#34;134&#34; width=&#34;150&#34; src=&#34;images/shop/kids-t-shirt.jpg&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Child&#39;s t-shirt&lt;/td&gt;
       &lt;td&gt;&amp;pound;9.00&lt;/td&gt;
       &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
@@ -768,7 +998,7 @@ $(&#39;#pop-tc&#39;).popover();
 
 
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;book: Scotland&#39;s Turntable Ferries&#34; height=&#34;141&#34; width=&#34;150&#34; src=&#34;/images/shop/ferry-book.png&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;book: Scotland&#39;s Turntable Ferries&#34; height=&#34;141&#34; width=&#34;150&#34; src=&#34;images/shop/ferry-book.png&#34;&gt;&lt;/td&gt;
       &lt;td&gt;&amp;quot;Scotland&#39;s Turntable Ferries&amp;quot; &lt;br&gt;104-page book with Colour and B &amp; W illustrations&lt;/td&gt;
       &lt;td&gt;&amp;pound;18.50&lt;/td&gt;
       &lt;td&gt;
@@ -783,7 +1013,7 @@ $(&#39;#pop-tc&#39;).popover();
 
 
     &lt;tr&gt;
-      &lt;td&gt;&lt;img alt=&#34;tea towel&#34; height=&#34;250&#34; width=&#34;150&#34; src=&#34;/images/shop/tea-towel.png&#34;&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img alt=&#34;tea towel&#34; height=&#34;250&#34; width=&#34;150&#34; src=&#34;images/shop/tea-towel.png&#34;&gt;&lt;/td&gt;
       &lt;td&gt;Skye Ferry tea towel&lt;/td&gt;
       &lt;td&gt;&amp;pound;5.00&lt;/td&gt;
       &lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
