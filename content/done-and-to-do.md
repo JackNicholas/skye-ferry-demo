@@ -11,6 +11,11 @@ done and to do
 
 ## done
 
+* >>>>>>>>>>> 2014-12-24
+
+* update paypal codes on shop page
+* change shop page name to merchandise and change menu to match
+
 * >>>>>>>>>>>> 2014-12-23
 * how find us page including chart
 * remove terms and conditions from footer as we don’t seem to have any!
@@ -51,8 +56,6 @@ done and to do
 ## to do
 
 * check new dropbox images, select best, add to gallery 
-* update paypal codes on shop page
-* change shop page name to merchandise and change menu to match
 
 * new page
 *   image
