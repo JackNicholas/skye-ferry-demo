@@ -26,7 +26,7 @@ alt: "dog on ferry"
 ​​​​​​
 ## Service Dates
 
-We run annually from Eater until October. The precise dates are changeable due to Easter being a moveable feast and October can throw up some tricky conditions with weather.
+We run annually from Easter until October. The precise dates are changeable due to Easter being a moveable feast and October can throw up some tricky conditions with weather.
 We will keep the site updated as to when we open and close for the season each year.
 
 ## Times of service
