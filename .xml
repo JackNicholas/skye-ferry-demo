@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on The Skye Ferry site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <language>en-uk</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>How to Find Us</title>
-      <link>/find-us.html</link>
+      <link>http://localhost:1313/find-us.html</link>
       <pubDate>Tue, 23 Dec 2014 18:16:15 &#43;0100</pubDate>
       
-      <guid>/find-us.html</guid>
+      <guid>http://localhost:1313/find-us.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;How to find us&lt;/h1&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>Wildlife</title>
-      <link>/wildlife.html</link>
+      <link>http://localhost:1313/wildlife.html</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>/wildlife.html</guid>
+      <guid>http://localhost:1313/wildlife.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Wildlife at the ferry&lt;/h1&gt;
@@ -75,10 +75,10 @@
     
     <item>
       <title>gallery</title>
-      <link>/gallery.html</link>
+      <link>http://localhost:1313/gallery.html</link>
       <pubDate>Thu, 25 Sep 2014 10:42:56 BST</pubDate>
       
-      <guid>/gallery.html</guid>
+      <guid>http://localhost:1313/gallery.html</guid>
       <description>&lt;!-- main content --&gt;
 
 &lt;div class=&#34;container&#34;&gt;
@@ -210,10 +210,10 @@
     
     <item>
       <title>links</title>
-      <link>/links.html</link>
+      <link>http://localhost:1313/links.html</link>
       <pubDate>Mon, 22 Sep 2014 14:51:47 BST</pubDate>
       
-      <guid>/links.html</guid>
+      <guid>http://localhost:1313/links.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Links&lt;/h1&gt;
@@ -467,10 +467,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>/contact.html</link>
+      <link>http://localhost:1313/contact.html</link>
       <pubDate>Mon, 22 Sep 2014 13:56:15 BST</pubDate>
       
-      <guid>/contact.html</guid>
+      <guid>http://localhost:1313/contact.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Contact Us&lt;/h1&gt;
@@ -503,10 +503,10 @@
     
     <item>
       <title>Notes, to-do, done...</title>
-      <link>/done-and-to-do.html</link>
+      <link>http://localhost:1313/done-and-to-do.html</link>
       <pubDate>Thu, 31 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>/done-and-to-do.html</guid>
+      <guid>http://localhost:1313/done-and-to-do.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;done and to do&lt;/h1&gt;
@@ -906,10 +906,10 @@ $(&#39;#pop-tc&#39;).popover();
     
     <item>
       <title>Ferry Shop</title>
-      <link>/merchandise.html</link>
+      <link>http://localhost:1313/merchandise.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>/merchandise.html</guid>
+      <guid>http://localhost:1313/merchandise.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -1044,10 +1044,10 @@ $(&#39;#pop-tc&#39;).popover();
     
     <item>
       <title>Ferry Shop</title>
-      <link>/shop.html</link>
+      <link>http://localhost:1313/shop.html</link>
       <pubDate>Tue, 22 Jul 2014 15:59:52 BST</pubDate>
       
-      <guid>/shop.html</guid>
+      <guid>http://localhost:1313/shop.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Skye Ferry shop&lt;/h1&gt;
@@ -1165,13 +1165,14 @@ $(&#39;#pop-tc&#39;).popover();
 
     &lt;tr&gt;
       &lt;td&gt;Free Skye Ferry car sticker with orders over &amp;pound;20&lt;/td&gt;
-      &lt;td colspan=&#34;2”&gt;&lt;dl class=”dl-horizontal”&gt;
+      &lt;td&gt;&lt;dl class=”dl-horizontal”&gt;
         &lt;dt&gt;Order value: &lt;/dt&gt;&lt;dd&gt;UK postage&lt;/dd&gt;
         &lt;dt&gt;&amp;pound;00.01 - &amp;pound;19.99&lt;/dt&gt;&lt;dd&gt;&amp;pound2.50&lt;/dd&gt;
         &lt;dt&gt;&amp;pound;20.00 - &amp;pound;39.99&lt;/dt&gt;&lt;dd&gt;&amp;pound5.00&lt;/dd&gt;
         &lt;dt&gt;&amp;pound;40.00 - &amp;pound;74.99&lt;/dt&gt;&lt;dd&gt;&amp;pound7.50&lt;/dd&gt;
         &lt;dt&gt;&amp;pound;75.00 - &amp;pound;149.99&lt;/dt&gt;&lt;dd&gt;&amp;pound10.00&lt;/dd&gt;
       &lt;/dl&gt;&lt;/td&gt;
+      &lt;td&gt;&amp;nbsp;&lt;/td&gt;
       &lt;td&gt;&lt;form target=&#34;paypal&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
               &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
               &lt;input type=&#34;hidden&#34; name=&#34;encrypted&#34; value=&#34;-----BEGIN PKCS7-----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-----END PKCS7-----
@@ -1187,10 +1188,10 @@ $(&#39;#pop-tc&#39;).popover();
     
     <item>
       <title>Ferry blog</title>
-      <link>/blog.html</link>
+      <link>http://localhost:1313/blog.html</link>
       <pubDate>Tue, 22 Jul 2014 11:20:49 BST</pubDate>
       
-      <guid>/blog.html</guid>
+      <guid>http://localhost:1313/blog.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;The Ferry Blog&lt;/h1&gt;
@@ -1203,10 +1204,10 @@ $(&#39;#pop-tc&#39;).popover();
     
     <item>
       <title>Times and Fares</title>
-      <link>/times-and-fares.html</link>
+      <link>http://localhost:1313/times-and-fares.html</link>
       <pubDate>Mon, 30 Jun 2014 04:21:55 UTC</pubDate>
       
-      <guid>/times-and-fares.html</guid>
+      <guid>http://localhost:1313/times-and-fares.html</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Timetables and Fares&lt;/h1&gt;
@@ -1243,10 +1244,10 @@ We will keep the site updated as to when we open and close for the season each y
     
     <item>
       <title>about and more</title>
-      <link>/about.html</link>
+      <link>http://localhost:1313/about.html</link>
       <pubDate>Fri, 27 Jun 2014 16:47:49 BST</pubDate>
       
-      <guid>/about.html</guid>
+      <guid>http://localhost:1313/about.html</guid>
       <description>testing the about page
 </description>
     </item>
