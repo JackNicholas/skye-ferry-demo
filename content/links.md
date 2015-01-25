@@ -11,6 +11,23 @@ title: "links"
 
 <div class="panel-group" id="accordion">
 
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseLinks">
+          Local Information
+        </a>
+      </h4>
+    </div>
+    <div id="collapseLinks" class="panel-collapse collapse">
+      <div class="panel-body">
+         <p><a href="http://www.glenelgscotland.com/">Glenelg Tourist website</a></p>
+         <p><a href=" http://www.glenelgmrt.co.uk/">Glenelg Mountain Rescue Team</a></p>
+      </div>
+    </div>
+  </div>
+
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
