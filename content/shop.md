@@ -6,7 +6,7 @@ image: "cars_disembarking_glenelg_1280_720.jpg"
 title: "Ferry Shop"
 ---
 
-# The Skye Ferry shop
+# 2 The Skye Ferry shop
 
 <div class="table-responsive">
   <table class="table table-striped">
