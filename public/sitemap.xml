@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2014-12-23T18:16:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/find-us.html</loc>
+    <loc>http://localhost:1313/find-us.html</loc>
     <lastmod>2014-12-23T18:16:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/wildlife.html</loc>
+    <loc>http://localhost:1313/wildlife.html</loc>
     <lastmod>2014-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery.html</loc>
+    <loc>http://localhost:1313/gallery.html</loc>
     <lastmod>2014-09-25T10:42:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/links.html</loc>
+    <loc>http://localhost:1313/links.html</loc>
     <lastmod>2014-09-22T14:51:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact.html</loc>
+    <loc>http://localhost:1313/contact.html</loc>
     <lastmod>2014-09-22T13:56:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/done-and-to-do.html</loc>
+    <loc>http://localhost:1313/done-and-to-do.html</loc>
     <lastmod>2014-07-31T15:59:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/merchandise.html</loc>
+    <loc>http://localhost:1313/merchandise.html</loc>
     <lastmod>2014-07-22T15:59:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/shop.html</loc>
+    <loc>http://localhost:1313/shop.html</loc>
     <lastmod>2014-07-22T15:59:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog.html</loc>
+    <loc>http://localhost:1313/blog.html</loc>
     <lastmod>2014-07-22T11:20:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/times-and-fares.html</loc>
+    <loc>http://localhost:1313/times-and-fares.html</loc>
     <lastmod>2014-06-30T04:21:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about.html</loc>
+    <loc>http://localhost:1313/about.html</loc>
     <lastmod>2014-06-27T16:47:49+01:00</lastmod>
   </url>
   
